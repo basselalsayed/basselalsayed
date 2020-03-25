@@ -1,6 +1,8 @@
-## Your Name
+## Bassel Al-Sayed
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what exictes you about tech.
+
+[Projects](#projects) • [Skills](#skills) • [Education](#education) • [Experience](#experience) • [Interests](#interests) • [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/basselalsayed/worked-with)
 
 ## Skills
 
@@ -23,17 +25,11 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-[![StackShare](https://embed.stackshare.io/stacks/embed/a27196de308fd26fc4716dbcb784e9)](https://embed.stackshare.io/stacks/embed/a27196de308fd26fc4716dbcb784e9)
-
-[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/basselalsayed/worked-with)
-
 #### Makers Academy (start_date to end_date)
-
-
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
-- Ruby, Rails, JavaScript, React, 
+- Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
 #### Your University / College (start_date to end_date)
