@@ -23,11 +23,17 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
+[![StackShare](https://embed.stackshare.io/stacks/embed/a27196de308fd26fc4716dbcb784e9)](https://embed.stackshare.io/stacks/embed/a27196de308fd26fc4716dbcb784e9)
+
+[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/basselalsayed/worked-with)
+
 #### Makers Academy (start_date to end_date)
+
+
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
-- Ruby, Rails, JavaScript
+- Ruby, Rails, JavaScript, React, 
 - RSpec, Jasmine
 
 #### Your University / College (start_date to end_date)
