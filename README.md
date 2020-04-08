@@ -17,22 +17,22 @@
 
 ## Skills
 
-Teamwork and Soft Skills
+### Teamwork and Soft Skills
 
 During my time at Makers my ability to work productively in a team has increased dramatically. Although initially finding difficulty keeping my teammates in constant consideration (coordinating with others?) under the pressure of a deadline, I learned patience and that I equally enjoy following as well as leading. I have strong, empathy and communiction skills that allow me to challenge my team and share ideas in a comfortable, non-confrontational manner while paying attention to my team's needs at that time. I have a passion for sharing knowledge, and I enjoy helping and showing others what I have learned. I had two mentees while at Makers.
 
-Leadership
+### Leadership
 
-Adaptability
+### Adaptability
 
 While growing up I lived in different environments, in my work experience I frequently faced new and unexpected challenges. I have excelled in many of these situations due to my growth mindset, creativity and deciveness. For our final project, we learned python, django, react, circleci, jest, webpack/babel in two weeks. My experience shows I have the capability to survive and thrive in any work environment and contribute to any team. 
 
 
-Problem Solving, Fast Learner
+### Problem Solving, Fast Learner
 
 Unknowingly, I've spent much of my life trying to automate and improve systems around me. When working on a project I take it upon myself to learn and understand as much as possible to gain perspective and more importantly avoid future bugs. An example of this was when learning Ruby on Rails on our Acebook project, much of the application is auto generated, I insisted to my team that we should set up the User authentication from scratch for fear of not understanding what was happening under the hood when using more auto-generation with a new technology. Despite a day and a half of frustration the decision paid off for future projects as using the generator is now straightforward. 
 
-Motivated
+### Motivated
 
 The idea of Silicon Valley, tech billionaire, fast cars and faster women are not the reasons I got into software development. Although there is financial incentive in this industry. I believe it chose me because problem solving to this capacity, with all the intricacies and possibilities when planning out a project, the pros and cons of different approaches, thinking multiple steps ahead as well as the ability to clearly communicate abstract ideas are qualities I possess and enjoy using. My motivation is internal, and I want to get the most out of this journey. 
 
