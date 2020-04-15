@@ -4,14 +4,14 @@
 
   Adaptable, motivated and passionate full stack engineer with strong ethics, planning, logic and communication skills who is ideally   suited for a role in a startup or corporate environment.
 
-<p style="text-align: center"> 
+<center> 
   <a href="#background">Background </a> • 
   <a href="#projects">Projects </a> • 
   <a href="#skills">Skills</a> • 
   <a href="#education">Education</a> • 
   <a href="#experience">Experience</a> • 
   <a href="#interests">Interests</a>
-</p> 
+</center> 
 
 <p style="text-align: center">
   <a href="https://stackshare.io/basselalsayed/worked-with"><img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat" alt=""></a> 
