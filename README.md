@@ -12,11 +12,8 @@
   <a href="#experience">Experience</a> • 
   <a href="#interests">Interests</a>
 
-<br>
-
   <a href="https://stackshare.io/basselalsayed/worked-with"><img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat" alt=""></a> 
 
-<br>
 
   <a href="https://sourcerer.io/basselalsayed"><img src="https://img.shields.io/badge/Ruby-303%20commits-orange.svg" alt=""></a> 
   <a href="https://sourcerer.io/basselalsayed"><img src="https://img.shields.io/badge/JavaScript-209%20commits-orange.svg" alt=""></a> 
@@ -33,7 +30,7 @@
   Unknowingly, I first started debugging around age 10. Running cracked games was often a multi-step process 
 </P>
 <p>
-While at Brooks Holdings was involved with large, high net worth projects. I’ve shown to be a creative problem solver who prefers to help his colleagues in order to better the progress of the overall firm. I have been thrown into many situations that required expertise I was lacking and still consistently came out successful, this versatility proved beneficial throughout the makers bootcamp. 
+While at Brooks Holdings was involved with large, high net worth projects. I’ve shown to be a creative problem solver who prefers to help his colleagues in order to better the progress of the overall firm. I have been thrown into many situations that required experience I was lacking and still consistently came out successful, this versatility proved beneficial throughout the makers bootcamp. 
 
 I decided to switch careers after almost three years at my previous role when I felt the learning had plateued and daily monotony started to creep in. I thrive in environments with constant challenge and I thouroughly enjoy having found an industry where I can combine my love of tech with creative problem solving on a daily basis.
 </p>
