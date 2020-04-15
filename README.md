@@ -4,39 +4,41 @@
 
   Adaptable, motivated and passionate full stack engineer with strong ethics, planning, logic and communication skills who is ideally   suited for a role in a startup or corporate environment.
 
-<div align="center"> 
-  <a href="#background">Background </a> • 
-  <a href="#projects">Projects </a> • 
-  <a href="#skills">Skills</a> • 
-  <a href="#education">Education</a> • 
-  <a href="#experience">Experience</a> • 
-  <a href="#interests">Interests</a>
-<!-- </div>  -->
-
-<!-- <p style="text-align: center"> -->
-  <a href="https://stackshare.io/basselalsayed/worked-with"><img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat" alt=""></a> 
-<!-- </p> -->
-
-<!-- <p style="text-align: center">  -->
-  <a href="https://sourcerer.io/basselalsayed"><img src="https://img.shields.io/badge/Ruby-303%20commits-orange.svg" alt=""></a> 
-  <a href="https://sourcerer.io/basselalsayed"><img src="https://img.shields.io/badge/JavaScript-209%20commits-orange.svg" alt=""></a> 
-  <a href="https://sourcerer.io/basselalsayed"><img src="https://img.shields.io/badge/CSS-196%20commits-orange.svg" alt=""></a> 
-  <a href="https://sourcerer.io/basselalsayed"><img src="https://img.shields.io/badge/HTML-179%20commits-orange.svg" alt=""></a> 
-  <a href="https://sourcerer.io/basselalsayed"><img src="https://img.shields.io/badge/SQL-55%20commits-orange.svg" alt=""></a> 
-  <a href="https://sourcerer.io/basselalsayed"><img src="https://img.shields.io/badge/Python-27%20commits-orange.svg" alt=""></a>
-<!-- </p> -->
-</div>
+  <div align="center"> 
+    <div style="margin-bottom: 10px">
+      <a href="#background">Background </a> • 
+      <a href="#projects">Projects </a> • 
+      <a href="#skills">Skills</a> • 
+      <a href="#education">Education</a> • 
+      <a href="#experience">Experience</a> • 
+      <a href="#interests">Interests</a>
+    </div>
+  
+  <!-- tech stack -->
+  <div style="margin-bottom: 10px">
+    <a href="https://stackshare.io/basselalsayed/worked-with"><img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat" alt=""></a> 
+  </div>
+  
+  <!-- sourcerer badges -->
+  <div>
+    <a href="https://sourcerer.io/basselalsayed"><img src="https://img. shields.io/badge/Ruby-303%20commits-orange.svg" alt=""></a> 
+    <a href="https://sourcerer.io/basselalsayed"><img src="https://img. shields.io/badge/JavaScript-209%20commits-orange.svg" alt=""></a> 
+    <a href="https://sourcerer.io/basselalsayed"><img src="https://img. shields.io/badge/CSS-196%20commits-orange.svg" alt=""></a> 
+    <a href="https://sourcerer.io/basselalsayed"><img src="https://img. shields.io/badge/HTML-179%20commits-orange.svg" alt=""></a> 
+    <a href="https://sourcerer.io/basselalsayed"><img src="https://img. shields.io/badge/SQL-55%20commits-orange.svg" alt=""></a> 
+    <a href="https://sourcerer.io/basselalsayed"><img src="https://img. shields.io/badge/Python-27%20commits-orange.svg" alt=""></a>
+  </div>
+  </div>
 
 ## Background
 
 <p style="color: green"> 
   Unknowingly, I first started debugging around age 10. Running cracked games was often a multi-step process 
 </P>
-<p>
+
 While at Brooks Holdings was involved with large, high net worth projects. I’ve shown to be a creative problem solver who prefers to help his colleagues in order to better the progress of the overall firm. I have been thrown into many situations that required expertise I was lacking and still consistently came out successful, this versatility proved beneficial throughout the makers bootcamp. 
 
 I decided to switch careers after almost three years at my previous role when I felt the learning had plateued and daily monotony started to creep in. I thrive in environments with constant challenge and I thouroughly enjoy having found an industry where I can combine my love of tech with creative problem solving on a daily basis.
-</p>
 
 
 ## Projects
