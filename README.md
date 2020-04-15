@@ -1,6 +1,6 @@
 ## Bassel Al-Sayed
 
-<div style="text-align: justify">
+<div align="justify">
 
   Adaptable, motivated and passionate full stack engineer with strong ethics, planning, logic and communication skills who is ideally   suited for a role in a startup or corporate environment.
 
