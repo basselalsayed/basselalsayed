@@ -11,20 +11,20 @@
   <a href="#education">Education</a> • 
   <a href="#experience">Experience</a> • 
   <a href="#interests">Interests</a>
-<!-- </div>  -->
+
 <br>
-<!-- <p style="text-align: center"> -->
+
   <a href="https://stackshare.io/basselalsayed/worked-with"><img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat" alt=""></a> 
-<!-- </p> -->
+
 <br>
-<!-- <p style="text-align: center">  -->
+
   <a href="https://sourcerer.io/basselalsayed"><img src="https://img.shields.io/badge/Ruby-303%20commits-orange.svg" alt=""></a> 
   <a href="https://sourcerer.io/basselalsayed"><img src="https://img.shields.io/badge/JavaScript-209%20commits-orange.svg" alt=""></a> 
   <a href="https://sourcerer.io/basselalsayed"><img src="https://img.shields.io/badge/CSS-196%20commits-orange.svg" alt=""></a> 
   <a href="https://sourcerer.io/basselalsayed"><img src="https://img.shields.io/badge/HTML-179%20commits-orange.svg" alt=""></a> 
   <a href="https://sourcerer.io/basselalsayed"><img src="https://img.shields.io/badge/SQL-55%20commits-orange.svg" alt=""></a> 
   <a href="https://sourcerer.io/basselalsayed"><img src="https://img.shields.io/badge/Python-27%20commits-orange.svg" alt=""></a>
-<!-- </p> -->
+
 </div>
 
 ## Background
