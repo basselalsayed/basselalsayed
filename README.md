@@ -30,7 +30,10 @@
   Unknowingly, I first started debugging around age 10. Running cracked games was often a multi-step process 
 </P>
 <p>
-While at Brooks Holdings was involved with large, high net worth projects. I’ve shown to be a creative problem solver who prefers to help his colleagues in order to better the progress of the overall firm. I have been thrown into many situations that required experience I was lacking and still consistently came out successful, this versatility proved beneficial throughout the makers bootcamp. 
+
+During time at Brooks Holdings, was responsible for 5 businesses in 3 industries.
+
+Brooks Holdings was a family office with a startup environment, worked closely with the Founder. Was involved with large, high net worth projects. Shown to be a creative problem solver who contributes to his team. I have been thrown into many situations that required experience I was lacking and still consistently came out successful, this versatility proved beneficial throughout the Makers bootcamp. 
 
 I decided to switch careers after almost three years at my previous role when I felt the learning had plateued and daily monotony started to creep in. I thrive in environments with constant challenge and I thouroughly enjoy having found an industry where I can combine my love of tech with creative problem solving on a daily basis.
 </p>
@@ -39,7 +42,8 @@ I decided to switch careers after almost three years at my previous role when I 
 ## Projects
 | Name | Description | Build Time | Tech Stack |
 | :------ | :------------- | :------ | :-----|
-| Finbot: [Frontend](https://github.com/basselalsayed/finbot), [API](https://github.com/nikimanoledaki/finbot-api) | Final project at makers. Chatbot using react, django and tensorflow to provide brief educational responses and links to recommended resources on matters related to personal finance. It offers users the choice of additional resources on some topics. | 2 Weeks | Frontend: [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/basselalsayed/finbot) API: [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/basselalsayed/finbot-api-stack)|
+|  [Algorithm-Visualiser](https://github.com/Walker-TW/Algorithm-Visualizer) | Built purely in react, this app enacts different route finding algorithms in a visual representastion. Great learning opportuntity for making a program as easy as possible for the user. Was a nice opportunity to try hooks. Built with TDD. | On Going | React.js
+| Finbot: [Frontend](https://github.com/basselalsayed/finbot), [API](https://github.com/basselalsayed/finbot-api) | Final project at makers. Chatbot using react, django and tensorflow to provide brief educational responses and links to recommended resources on matters related to personal finance. It offers users the choice of additional resources on some topics. | 2 Weeks | Frontend: [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/basselalsayed/finbot) API: [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/basselalsayed/finbot-api-stack)|
 | [Acebook](https://github.com/basselalsayed/acebook-derailed) |Clone of Facebook. Users can sign up, login, add friends, post publicly, to their own wall or others' wall, post comments on all types of posts| 2 Weeks | [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/basselalsayed/acebook) |
 | [MakersBnB](https://github.com/basselalsayed/makersbnb) |Clone of Airbnb. Users can sign up, login, list a property, create booking requests, confirm booking requests, message owners/customers. | 1 Week | [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/basselalsayed/makersbnb)|
 
@@ -92,5 +96,5 @@ The idea of Silicon Valley, tech billionaire, fast cars and faster women are not
  
 ## Hobbies
 
-Exercise, guitar (<1 year), tennis, ping pong, bouldering, yoga, boxing
+Exercise, guitar , tennis, ping pong, bouldering, yoga, boxing
 </div>
