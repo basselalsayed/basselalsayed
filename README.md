@@ -94,7 +94,7 @@ The idea of Silicon Valley, tech billionaire, fast cars and faster women are not
 - Small staff meant I had to coordinate well with others, and logistically plan out how to maintain operations.
 - High level of responsibility meant I had to learn how to manage and train others, negotiate, find new business, write a business plan, budget, forecast, operations (accounting, legal, compliance, public relations) and schedule in a short period of time. It has contributed to my resilience and ability to work under pressure, juggle multiple balls.
  
-## Hobbies
+## Interests
 
 Exercise, guitar , tennis, ping pong, bouldering, yoga, boxing
 </div>
