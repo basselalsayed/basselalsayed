@@ -1,20 +1,11 @@
-## Bassel Al-Sayed
+# Bassel Al-Sayed
 
 <div align="justify">
 
   Adaptable, motivated and passionate full stack engineer with strong ethics, planning, logic and communication skills who is ideally suited for a role in a startup or corporate environment.
 
-<div align="center"> 
-  <a href="#background">Background </a> • 
-  <a href="#projects">Projects </a> • 
-  <a href="#skills">Skills</a> • 
-  <a href="#education">Education</a> • 
-  <a href="#experience">Experience</a> • 
-  <a href="#interests">Interests</a>
 
-  <a href="https://stackshare.io/basselalsayed/worked-with"><img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat" alt=""></a> 
-
-
+  <a  href="https://stackshare.io/basselalsayed/worked-with"><img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat" alt=""></a> 
   <a href="https://sourcerer.io/basselalsayed"><img src="https://img.shields.io/badge/Ruby-303%20commits-orange.svg" alt=""></a> 
   <a href="https://sourcerer.io/basselalsayed"><img src="https://img.shields.io/badge/JavaScript-209%20commits-orange.svg" alt=""></a> 
   <a href="https://sourcerer.io/basselalsayed"><img src="https://img.shields.io/badge/CSS-196%20commits-orange.svg" alt=""></a> 
@@ -26,14 +17,14 @@
 
 ## Background
 
-<p> 
+
   Unknowingly, I first started debugging around age 10. Running cracked games was often a multi-step process 
-</P>
 
 <p>
+
 During time at Brooks Holdings, was responsible for 5 businesses in 3 industries.
 
-Brooks Holdings was a family office with a startup environment, worked closely with the Founder. Was involved with a diverse range of simultaneous projects. Shown to be a creative problem solver who contributes to his team. I have been thrown into many situations many situations outside of my comfort zone and consistently came out successful.This versatility proved beneficial throughout the Makers bootcamp. 
+Brooks Holdings was a family office with a startup environment, worked closely with the Founder. Was involved with a diverse range of simultaneous projects. Shown to be a creative problem solver who contributes to his team. I have been thrown into many situations outside of my comfort zone and consistently came out successful. This versatility proved beneficial throughout the Makers bootcamp. 
 
 I decided to switch careers after almost three years at my previous role when I felt the learning had plateued. I thrive in environments with constant challenge and I thouroughly enjoy having found an industry where I can combine my love of tech with creative problem solving on a daily basis.
 </p>
@@ -46,11 +37,12 @@ I decided to switch careers after almost three years at my previous role when I 
 | Finbot: [Frontend](https://github.com/basselalsayed/finbot), [API](https://github.com/basselalsayed/finbot-api) | Final project at makers. Chatbot using react, django and tensorflow to provide brief educational responses and links to recommended resources on matters related to personal finance. It offers users the choice of additional resources on some topics. | 2 Weeks | Frontend: [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/basselalsayed/finbot) API: [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/basselalsayed/finbot-api-stack)|
 | [Acebook](https://github.com/basselalsayed/acebook-derailed) |Clone of Facebook. Users can sign up, login, add friends, post publicly, to their own wall or others' wall, post comments on all types of posts. Built with TDD | 2 Weeks | [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/basselalsayed/acebook) |
 
+
 ## Skills
 
 ### Teamwork, Leadership and Soft Skills
 
-During my time at Makers my ability to work productively in a team has increased dramatically. Although initially finding difficulty keeping my teammates in constant consideration under the pressure of a deadline, I learned patience and that I equally enjoy following as well as leading. I have strong, empathy and communiction skills that allow me to challenge my team and share ideas in a comfortable, non-confrontational manner. These skills transfer to managerial, presentational and client facing scenarios. I have a passion for sharing knowledge, and I enjoy helping and showing others what I have learned. I had two mentees while at Makers.
+During my time at Makers my ability to work productively in a team increased dramatically. Although initially finding difficulty keeping my teammates in constant consideration under the pressure of a deadline, I learned patience and that I equally enjoy following as well as leading. I have strong empathy and communiction skills that allow me to challenge my team and share ideas in a comfortable, non-confrontational manner. These skills transfer to managerial, presentational and client facing scenarios. I have a passion for sharing knowledge, and I enjoy helping and showing others what I have learned. I had two mentees while at Makers.
 
 
 ### Adaptability
@@ -60,7 +52,7 @@ While growing up I lived in different environments, in my work life I frequently
 
 ### Problem Solving, Fast Learner
 
-Unknowingly, I've spent much of my life trying to automate and improve systems around me. This transfers to project work where I aim to learn and understand as much as possible to gain perspective and avoid future bugs. An example of this was when learning Ruby on Rails on our Acebook project, much of the project is auto generated. When presented with the option of more auto generation for the user authentication; I put forward to my team that we should build from scratch for fear of not understanding what was happening under the hood with more new technology. Despite a day and a half of frustration the decision paid off as we gained more flexibility with our custom model.
+Unknowingly, I've spent much of my life trying to automate and improve systems around me. On a project I take it upon myself to learn and understand as much as possible to gain perspective and avoid future bugs. An example of this was when learning Ruby on Rails on our Acebook project, much of the project is auto generated. When presented with the option of more auto generation for the user authentication; I put forward to my team that we should build from scratch for fear of not understanding what was happening under the hood with more new technology. Despite a day and a half of frustration the decision paid off as we gained more flexibility with our custom model.
 
 ### Motivated
 
