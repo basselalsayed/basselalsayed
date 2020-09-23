@@ -2,14 +2,14 @@
 
 <div align="justify">
 
-Adaptable, motivated and passionate full stack engineer with strong ethics, planning, logic and communication skills who is ideally suited for a role in a startup or corporate environment.
+
 
 <div align="center"> 
-  <a href="#background">Background </a> • 
+  <a href="#Summary">Summary </a> • 
   <a href="#projects">Projects </a> • 
   <a href="#skills">Skills</a> • 
-  <a href="#education">Education</a> • 
   <a href="#experience">Experience</a> • 
+  <a href="#education">Education</a> • 
   <a href="#interests">Interests</a>
 
 <a href="https://stackshare.io/basselalsayed/worked-with"><img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat" alt=""></a>
@@ -23,18 +23,16 @@ Adaptable, motivated and passionate full stack engineer with strong ethics, plan
 
 </div>
 
-## Background
+## Summary
 
 <p> 
-  Unknowingly, I first started debugging around age 10. Running cracked games was often a multi-step process 
-</P>
+  I'm an adaptable, motivated and passionate full-stack engineer with strong ethics, planning, logic and communication skills who is ideally suited for a role in a startup or corporate environment.
 
-<p>
-During time at Brooks Holdings, was responsible for 5 businesses in 3 industries.
+  Unknowingly, I began debugging around age 10 when failed attempts at running cracked games and mods required manual manipulation of code in a text editor. I also dabbled in modifying config files in some games to alter the physics. I remember thoroughly enjoying the feeling of being a 'hacker' at the time, however, oblivious to the fact that this process of "change it, test it, keep/scrap it"  is an integral part of being a software engineer.
 
-Brooks Holdings was a family office with a startup environment, worked closely with the Founder. Was involved with a diverse range of simultaneous projects. Shown to be a creative problem solver who contributes to his team. I have been thrown into many situations many situations outside of my comfort zone and consistently came out successful. This versatility proved beneficial throughout the Makers bootcamp.
+At my last role, having worked closely with the founder on a range of simultaneous projects with a small team, my time there fully embodied the startup energy. I proved myself to be a creative problem solver in time-sensitive situations through my organisation, negotiation, delegation skills and leveraging a network of contacts. I was a strong team player who took pride in his work and wanted the firm to succeed.
 
-I decided to switch careers after almost three years at my previous role when I felt the learning had plateaued. I thrive in environments with constant challenge and I'm happy I found an industry where I can combine my love of tech with creative problem solving on a daily basis.
+I decided to switch careers after almost three years when I felt my learning had plateaued. I thrive in environments with constant challenge, and I'm happy to have found an industry where I can combine my love of tech with creative problem solving daily.
 
 </p>
 
@@ -66,6 +64,15 @@ Unknowingly, I've spent much of my life trying to automate and improve systems a
 
 Although there is financial incentive in this industry. I am here because I enjoy the whole process; from the various considerations when mapping out a project, inevitably being forced to think up creative workarounds or learn a new library because it provides what is needed to the satisfaction of seeing an end product that provides a quality service to users. My motivation is internal, one of my current goals is to improve to a point I can contribute back to the developer community (by making a pull request to a major codebase or releasing a tool that could help others). I want to work in environments with fellow developers who are as passionate about engineering as I am.
 
+## Experience
+
+**Brooks Holdings Ltd** (June 2016 to March 2019)  
+_Operations Manager_
+
+- While at this private family office, was responsible for both on-site management and head office administration for two restaurants, a lettings portfolio of over twenty apartments and a sales portfolio of six.
+- Small staff meant I had to coordinate well with others, and logistically plan out how to maintain operations.
+- High level of responsibility. Had to learn how to manage and train others, negotiate, find new business, write a business plan, budget, forecast, operations (accounting, legal, compliance, public relations) and schedule in a short period of time with minimal supervision or formal resources. It has contributed to my resilience and ability to work under pressure, juggle multiple balls.
+
 ## Education
 
 #### Makers Academy (December 2019 - March 2020)
@@ -81,17 +88,7 @@ Although there is financial incentive in this industry. I am here because I enjo
 #### Aberystwyth University (September 2012 to June 2016)
 
 - Economics BSc
-- 3rd Class
 - For my dissertation I analyzed the 2008 recession from a different perspective to what are widely attributed as the main causes. The economic mindset of opportunity cost and evaluating options has been key to my approach as a developer.
-
-## Experience
-
-**Brooks Holdings Ltd** (June 2016 to March 2019)  
-_Operations Manager_
-
-- While at this private family office, was responsible for 5 businesses in 3 industries.
-- Small staff meant I had to coordinate well with others, and logistically plan out how to maintain operations.
-- High level of responsibility. Had to learn how to manage and train others, negotiate, find new business, write a business plan, budget, forecast, operations (accounting, legal, compliance, public relations) and schedule in a short period of time with minimal supervision or formal resources. It has contributed to my resilience and ability to work under pressure, juggle multiple balls.
 
 ## Interests
 
